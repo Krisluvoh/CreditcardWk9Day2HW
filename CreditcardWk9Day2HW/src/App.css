@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color:blueviolet;
+  color: white; 
+}
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.valid {
+  background-color: green;
+  color: white;
+}
+
+.invalid {
+  background-color: red;
+  color: white;
+}
